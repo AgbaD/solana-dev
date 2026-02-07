@@ -34,3 +34,29 @@ Below is a screenshot showing the token and minted balance on Solana Devnet (via
 
 > 📸 **Screenshot:**  
 > ![solscan](solscan-mint.png)
+
+
+---
+
+# NFT Mint & Trade
+
+## NFT: OkiCat
+
+![OkiCat NFT](https://gateway.irys.xyz/8qCrnrZh4WZQbFyV4hK9oGonAHEgAkzCT6P1H3qnKdMH)
+
+- **Name:** OkiCat
+- **Symbol:** OKC
+- **Description:** I should maybe get a cat
+
+---
+
+## Minting Transaction Hashes
+
+| Step | Transaction / Address |
+|---|---|
+| Mint Address | `FQ1b5E6wRaG7My88fVGFbqpX2SHYzapEs39Sk7TF1Zng` |
+| Mint TX | [`3TokjR5...GNXqN`](https://explorer.solana.com/tx/3TokjR5KeV9CqVV1Uy2HoVfDdRzUy9VuLcvn4mo1GMK1Z6F2zX5ekXEwAHjhg9FLvaEuMYzDaWdgcZR6gLxGNXqN?cluster=devnet) |
+| Image URI | [Arweave](https://gateway.irys.xyz/8qCrnrZh4WZQbFyV4hK9oGonAHEgAkzCT6P1H3qnKdMH) |
+| Metadata URI | [Arweave](https://gateway.irys.xyz/HWkC2Hw2MGUpg1yyjA91y2D3TtdLiYWkK2ABA3Ra42aU) |
+
+---
